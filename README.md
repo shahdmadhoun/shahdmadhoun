@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/shahd-madhoun-em/" target="blank"><img align="center" src="./img/linkedin.png" width="50px" height="50px" /></a>
+<a href="https://www.linkedin.com/in/shahd-madhoun-em/" target="blank"><img align="center" src="./img/linkedin.png" width="30px" height="30px" /></a>
 &nbsp;&nbsp;
-<a href="https://www.pinterest.com/shahdmadhoun/" target="blank"><img align="center" src="./img/pinterest.png" height="100" /></a>
+<a href="https://www.pinterest.com/shahdmadhoun/" target="blank"><img align="center" src="./img/pinterest.png" width="30px" height="30px" /></a>
 &nbsp;&nbsp;
-<a href="shahdem100@gmail.com" target="blank"><img align="center" src="./img/gmail.png" height="100" /></a>
+<a href="shahdem100@gmail.com" target="blank"><img align="center" src="./img/gmail.png" width="30px" height="30px" /></a>
 &nbsp;&nbsp;
-<a href="https://www.facebook.com/shahd.madhoun" target="blank"><img align="center" src="./img/facebook.png" height="100" /></a>
+<a href="https://www.facebook.com/shahd.madhoun" target="blank"><img align="center" src="./img/facebook.png" width="30px" height="30px" /></a>
 
 
 
