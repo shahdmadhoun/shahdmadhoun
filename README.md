@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/shahd-madhoun-em/" target="blank"><img align="center" src="./img/linkedin.png" height="100" /></a>
+<a href="https://www.linkedin.com/in/shahd-madhoun-em/" target="blank"><img align="center" src="./img/linkedin.png" width="26px" height="100" /></a>
 &nbsp;&nbsp;
 <a href="https://www.pinterest.com/shahdmadhoun/" target="blank"><img align="center" src="./img/pinterest.png" height="100" /></a>
 &nbsp;&nbsp;
