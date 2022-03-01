@@ -13,4 +13,35 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+
+# Hi there, I'm Shahd 👋 
+
+
+## I'm a Software Development!
+
+- 🌱 I’m currently Student 🤣
+- ⚡ Get in touch at: shahdem100@gmail.com
+
+### Connect with me:
+
+<a href="https://www.linkedin.com/in/shahd-madhoun-em/" target="blank"><img align="center" src="./img/linkedin.png" height="100" /></a>
+&nbsp;&nbsp;
+<a href="https://www.pinterest.com/shahdmadhoun/" target="blank"><img align="center" src="./img/pinterest.png" height="100" /></a>
+&nbsp;&nbsp;
+<a href="shahdem100@gmail.com" target="blank"><img align="center" src="./img/gmail.png" height="100" /></a>
+&nbsp;&nbsp;
+<a href="https://www.facebook.com/shahd.madhoun" target="blank"><img align="center" src="./img/facebook.png" height="100" /></a>
+
+
+
+### Languages and Tools:
+
+[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
+
+<br />
+<br />
+
+---
+---
