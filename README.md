@@ -36,10 +36,10 @@ Here are some ideas to get you started:
 ### Languages and Tools:
 
 <a href="" target="blank"><img align="center" src="./img/Angular.png" width="40px" height="40px" /></a>
-<a href="" target="blank"><img align="center" src="./img/javascript.jpg" width="40px" height="50px" /></a>
+<a href="" target="blank"><img align="center" src="./img/javascript.jpg" width="40px" height="40px" /></a>
 <a href="" target="blank"><img align="center" src="./img/Typescript.png" width="40px" height="40px" /></a>
-<a href="" target="blank"><img align="center" src="./img/html.png" width="40px" height="50px" /></a>
-<a href="" target="blank"><img align="center" src="./img/css.png" width="40px" height="50px" /></a>
+<a href="" target="blank"><img align="center" src="./img/html.png" width="40px" height="40px" /></a>
+<a href="" target="blank"><img align="center" src="./img/css.png" width="40px" height="40px" /></a>
 
 
 <br />
