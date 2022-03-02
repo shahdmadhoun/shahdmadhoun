@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 - ⚡ Get in touch at: shahdem100@gmail.com
 
+<br />
+
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/shahd-madhoun-em/" target="blank"><img align="center" src="./img/linkedin.png" width="30px" height="30px" /></a>
@@ -31,20 +33,26 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;
 <a href="https://www.facebook.com/shahd.madhoun" target="blank"><img align="center" src="./img/facebook.png" width="30px" height="30px" /></a>
 
+<br />
 
 
 ### Languages and Tools:
 
 <a href="" target="blank"><img align="center" src="./img/Angular.png" width="40px" height="40px" /></a>
+&nbsp;&nbsp;
 <a href="" target="blank"><img align="center" src="./img/javascript.jpg" width="40px" height="40px" /></a>
+&nbsp;&nbsp;
 <a href="" target="blank"><img align="center" src="./img/Typescript.png" width="40px" height="40px" /></a>
+&nbsp;&nbsp;
 <a href="" target="blank"><img align="center" src="./img/html.png" width="40px" height="40px" /></a>
+&nbsp;&nbsp;
 <a href="" target="blank"><img align="center" src="./img/css.png" width="40px" height="40px" /></a>
+&nbsp;&nbsp;
 <a href="" target="blank"><img align="center" src="./img/Marklogic-logo.png" width="100px" height="40px" /></a>
+&nbsp;&nbsp;
 
 
 
-<br />
 <br />
 
 ---
