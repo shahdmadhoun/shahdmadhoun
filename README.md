@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi there 👋, I'm Shahd</h1>
-<h3 align="center">A software development</h3>
+<h3 align="center">I'm A software development</h3>
 
-- 🌱 I’m currently Student
+- 🌱 4th year Computer Science student
+
 - ⚡ Get in touch at: shahdem100@gmail.com
 
 ### Connect with me:
