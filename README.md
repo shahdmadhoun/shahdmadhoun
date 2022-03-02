@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 - ⚡ Get in touch at: shahdem100@gmail.com
 
+---
 <br />
 
 ### Connect with me:
@@ -33,6 +34,7 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;
 <a href="https://www.facebook.com/shahd.madhoun" target="blank"><img align="center" src="./img/facebook.png" width="30px" height="30px" /></a>
 
+---
 <br />
 
 
@@ -52,8 +54,7 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;
 
 
-
+---
 <br />
 
----
 ---
