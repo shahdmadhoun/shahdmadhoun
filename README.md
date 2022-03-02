@@ -40,6 +40,8 @@ Here are some ideas to get you started:
 <a href="" target="blank"><img align="center" src="./img/Typescript.png" width="40px" height="40px" /></a>
 <a href="" target="blank"><img align="center" src="./img/html.png" width="40px" height="40px" /></a>
 <a href="" target="blank"><img align="center" src="./img/css.png" width="40px" height="40px" /></a>
+<a href="" target="blank"><img align="center" src="./img/Marklogic-logo.png" width="60px" height="40px" /></a>
+
 
 
 <br />
