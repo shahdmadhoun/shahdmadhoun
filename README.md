@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi there 👋, I'm Shahd</h1>
-<h3 align="center">I'm A software development</h3>
+<h3 align="center">I'm a software developer</h3>
 
 - 🌱 4th year Computer Science student
 
