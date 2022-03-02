@@ -14,12 +14,10 @@ Here are some ideas to get you started:
 
 -->
 
-# Hi there, I'm Shahd 👋 
+<h1 align="center">Hi there 👋, I'm Shahd</h1>
+<h3 align="center">A software development</h3>
 
-
-## I'm a Software Development!
-
-- 🌱 I’m currently Student 🤣
+- 🌱 I’m currently Student
 - ⚡ Get in touch at: shahdem100@gmail.com
 
 ### Connect with me:
